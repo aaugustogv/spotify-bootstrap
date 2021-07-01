@@ -12,6 +12,6 @@ My project cloning the website Spotify utilizing Bootstrap, CSS3, HTML5.
 
 # And, I made it responsive :tada:
 
-<img src="./spotify-responsive" >
+<img src="./spotify-responsive.png" >
 
 
